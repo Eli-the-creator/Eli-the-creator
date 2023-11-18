@@ -4,16 +4,16 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eli-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="eli-the-creator" /> </p>
 
-<h2 style="text-decoration: none;"><span style="text-decoration: none;">Transition and Upgrade:</span></h2>
+<h2><span style="text-decoration: none;">Transition and Upgrade:</span></h2>
 
 - 🛠️ Explored website development on WordPress, but a desire for a change led me to venture into new directions.
 - 🔄 After gaining valuable experience, I've decided that the excitement lies in the world of coding, prompting me to upgrade my skills.
 
-<span style="text-decoration: none;">Previous Experience:</span>
+<h2><span style="text-decoration: none;">Previous Experience:</span></h2>
 
 💼 Worked with a company, contributing to WordPress website development post-graduation.
 
-<span style="text-decoration: none;">Projects:</span>
+<h2><span style="text-decoration: none;">Projects:</span></h2>
 
 - 📱 Several applications available on the App Store and Google Play.
 - 🌐 [Example of my micro frontend](project link) — ready for seamless integration.
