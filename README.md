@@ -56,4 +56,15 @@
     <img src="https://skillicons.dev/icons?i=figma" />
 </p>
 
+<table border="0">
+ <tr>
+    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px">Title 2</b></td>
+ </tr>
+ <tr>
+    <td>Lorem ipsum ...</td>
+    <td>Lorem ipsum ...</td>
+ </tr>
+</table>
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
