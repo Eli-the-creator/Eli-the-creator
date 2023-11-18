@@ -31,6 +31,7 @@
 <p>
     <img src="https://skillicons.dev/icons?i=react,electron,nextjs" />
 </p>
+
 <h4>State manager: React, React Native, NextJS</h4>
 <p>
     <img src="https://skillicons.dev/icons?i=redux,redis" />
@@ -44,6 +45,11 @@
 <h4>Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma </h4>
 <p>
     <img src="https://skillicons.dev/icons?i=aws,supabase,firebase,prisma" />
+</p>
+
+<h4>Styling: CSS, StyledComponents, Tailwind</h4>
+<p>
+    <img src="https://skillicons.dev/icons?i=css,styledcomponents,tailwind" />
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
