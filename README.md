@@ -29,18 +29,25 @@
     <img src="https://skillicons.dev/icons?i=js,ts" />
   </a>
 </p>
-
 <h4>Frameworks: React, React Native, NextJS</h4>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,electron,nextjs" />
   </a>
 </p>
-
-<h4>Other Tools:</h4>
+<h4>State manager: React, React Native, NextJS</h4>
 <p>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <!-- Другие инструменты здесь -->
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=redux,redis" />
+  </a>
 </p>
+
+<h4>Web3: Solidity, Ethereum, Solana</h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=solidity" />
+  </a>
+</p>
+##
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
