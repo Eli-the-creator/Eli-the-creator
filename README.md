@@ -25,35 +25,25 @@
 
 <h4>Languages: JS, TS</h4>
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts" />
-  </a>
 </p>
 <h4>Frameworks: React, React Native, NextJS</h4>
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,electron,nextjs" />
-  </a>
 </p>
 <h4>State manager: React, React Native, NextJS</h4>
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=redux,redis" />
-  </a>
 </p>
 
 <h4>Web3: Solidity, Ethereum, Solana</h4>
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=solidity" />
-  </a>
 </p>
 
 <h4>Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma </h4>
 <p>
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=aws,supabase,firebase,prisma" />
-  </a>
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
