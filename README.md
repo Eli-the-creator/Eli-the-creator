@@ -19,8 +19,7 @@
 - 🌐 [Example of my micro frontend](project link) — ready for seamless integration.
 - 🔧 All projects are meticulously tested and ready for use.
 
-<span style="text-decoration: none;">Languages and Tools:</span>
-
+<h2>Languages and Tools:</h2>
 <table>
   <tr>
     <th align="center" style="text-decoration: none;">
