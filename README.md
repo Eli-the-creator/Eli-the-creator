@@ -21,11 +21,7 @@
 
 ## Languages and Tools:
 
----
-
-### Languages: <p><img src="https://skillicons.dev/icons?i=js,ts" /></p>
-
----
+## Languages: <p><img src="https://skillicons.dev/icons?i=js,ts" /></p>
 
 <div>
   <h4>JS, TS</h4>
