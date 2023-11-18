@@ -30,6 +30,7 @@
 ## <h3 align="left">Languages and Tools:</h3>
 
 <h4>Languages: </h4>
+<p>JS, TS</p>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=js,ts" />
@@ -37,9 +38,10 @@
 </p>
 
 <h4>FrameWorks: </h4>
+<p>React , React Native , NextJS</p>
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nextjs" />
+    <img src="https://skillicons.dev/icons?i=reactnative,nextjs" />
   </a>
 </p>
 
