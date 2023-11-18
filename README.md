@@ -11,15 +11,15 @@
 
 <h3>Previous Experience:</h3>
 
-- 🛠️ Explored website development on WordPress, but a desire for a change led me to venture into new directions.
-
-- 🔄 After gaining valuable experience, I've decided that the excitement lies in the world of coding, prompting me to upgrade my skills.
+💼 Worked with a company, contributing to WordPress website development post-graduation.
 
 <h3> Projects (Take a quick look below in on my project 😉) :</h3>
 
 - 📱 Several applications available on the App Store and Google Play.
 
-- 💼 Worked with a company, contributing to WordPress website development post-graduation.
+- 🌐 [Example of my micro frontend](project link) — ready for seamless integration.
+
+- 🔧 All projects are meticulously tested and ready for use..
 
 ---
 
