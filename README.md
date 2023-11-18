@@ -39,7 +39,7 @@
 <div>
 <div>
 <h4>Frameworks:</h4>
-<p style="font-style: italic; font-weight: normal;">React, React Native, NextJS</p>
+<p style="margint-top: 9px; font-size:14 ;font-style: italic; font-weight: normal;">React, React Native, NextJS</p>
 </div>
 <p>
   <a href="https://skillicons.dev">
