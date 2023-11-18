@@ -21,8 +21,6 @@
 
 - 🔧 All projects are meticulously tested and ready for use.
 
----
-
 ## <h3 align="left">Languages and Tools:</h3>
 
 <h4>Languages: JS, TS</h4>
@@ -32,8 +30,7 @@
   </a>
 </p>
 
-<h4>Frameworks:</h4>
-<p>*React, React Native, NextJS*</p>
+<h4>Frameworks: React, React Native, NextJS</h4>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,electron,nextjs" />
