@@ -31,7 +31,7 @@ layout: base
       <img width="441" height="1">
       <p>
         <small>
-          **Languages: JS, TS**
+          Languages: JS, TS
         </small>
       </p>
     </th>
@@ -39,7 +39,7 @@ layout: base
       <img width="441" height="1">
       <p>
         <small>
-          **Frameworks: React, React Native, NextJS**
+          Frameworks: React, React Native, NextJS
         </small>
       </p>
     </th>
@@ -63,7 +63,7 @@ layout: base
       <img width="441" height="1">
       <p>
         <small>
-          **State manager: React, React Native, NextJS**
+          State manager: React, React Native, NextJS
         </small>
       </p>
     </th>
@@ -71,7 +71,7 @@ layout: base
       <img width="441" height="1">
       <p>
         <small>
-          **Web3: Solidity, Ethereum, Solana**
+          Web3: Solidity, Ethereum, Solana
         </small>
       </p>
     </th>
@@ -95,7 +95,7 @@ layout: base
       <img width="441" height="1">
       <p>
         <small>
-          **Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma**
+          Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma
         </small>
       </p>
     </th>
@@ -103,7 +103,7 @@ layout: base
       <img width="441" height="1">
       <p>
         <small>
-          **Styling: CSS, StyledComponents, Tailwind**
+          Styling: CSS, StyledComponents, Tailwind
         </small>
       </p>
     </th>
@@ -127,7 +127,7 @@ layout: base
       <img width="441" height="1">
       <p>
         <small>
-          **UI Tools: Figma**
+          UI Tools: Figma**
         </small>
       </p>
     </th>
@@ -135,7 +135,7 @@ layout: base
       <img width="441" height="1">
       <p>
         <small>
-          **More Skills**
+          More Skills
         </small>
       </p>
     </th>
@@ -145,12 +145,6 @@ layout: base
       <!-- UI Tools -->
       <p align="center">
         <img src="https://skillicons.dev/icons?i=figma" />
-      </p>
-    </td>
-    <td>
-      <!-- More Skills -->
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=example_skill1,example_skill2,example_skill3,example_skill4" />
       </p>
     </td>
   </tr>
