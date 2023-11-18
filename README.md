@@ -2,7 +2,7 @@
 
 ## 🚀 Embarking on a journey back to programming after a rewarding hiatus.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eli-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="eli-the-creator" /> </p>
+<span align="left"> <img src="httspans://komarev.com/ghpvc/?username=eli-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="eli-the-creator" /> </span>
 
 <h2 style="text-decoration: none;">Transition and Upgrade:</h2>
 
