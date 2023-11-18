@@ -53,7 +53,7 @@
     <th align="center" style="text-decoration: none;">
       <img width="441" height="1">
       <p>
-          State manager: React, React Native, NextJS
+          State manager: Redux, Redis
       </p>
     </th>
     <th align="center" style="text-decoration: none;">
