@@ -38,7 +38,8 @@
 
 <div>
 <div>
-<h4>Frameworks: *React, React Native, NextJS*</h4>
+<h4>Frameworks:</h4>
+*React, React Native, NextJS*
 </div>
 <p>
   <a href="https://skillicons.dev">
