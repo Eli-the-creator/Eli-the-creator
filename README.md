@@ -95,7 +95,7 @@ layout: base
       <img width="441" height="1">
       <p>
         <small>
-          Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma
+          Backend as a Service: AWS, SupaBase, FireBase, Prisma
         </small>
       </p>
     </th>
