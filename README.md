@@ -21,8 +21,6 @@
 
 <span style="text-decoration: none;">Languages and Tools:</span>
 
-<span style="text-decoration: none;">Languages and Tools:</span>
-
 <table>
   <tr>
     <th align="center" style="text-decoration: none;">
