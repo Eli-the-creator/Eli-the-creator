@@ -1,7 +1,3 @@
----
-layout: base
----
-
 # Hello, I'm Eli! 👋
 
 ## 🚀 Embarking on a journey back to programming after a rewarding hiatus.
@@ -25,7 +21,11 @@ layout: base
 
 ## Languages and Tools:
 
-### Languages:
+---
+
+### Languages: <p><img src="https://skillicons.dev/icons?i=js,ts" /></p>
+
+---
 
 <div>
   <h4>JS, TS</h4>
