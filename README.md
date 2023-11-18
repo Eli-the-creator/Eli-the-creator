@@ -26,17 +26,13 @@
     <th align="center">
       <img width="441" height="1">
       <p>
-        <small>
           Languages: JS, TS
-        </small>
       </p>
     </th>
     <th align="center">
       <img width="441" height="1">
       <p>
-        <small>
           Frameworks: React, React Native, NextJS
-        </small>
       </p>
     </th>
   </tr>
@@ -58,17 +54,13 @@
     <th align="center">
       <img width="441" height="1">
       <p>
-        <small>
           State manager: React, React Native, NextJS
-        </small>
       </p>
     </th>
     <th align="center">
       <img width="441" height="1">
       <p>
-        <small>
           Web3: Solidity, Ethereum, Solana
-        </small>
       </p>
     </th>
   </tr>
@@ -90,17 +82,13 @@
     <th align="center">
       <img width="441" height="1">
       <p>
-        <small>
           Backend as a Service: AWS, SupaBase, FireBase, Prisma
-        </small>
       </p>
     </th>
     <th align="center">
       <img width="441" height="1">
       <p>
-        <small>
           Styling: CSS, StyledComponents, Tailwind
-        </small>
       </p>
     </th>
   </tr>
@@ -122,17 +110,13 @@
     <th align="center">
       <img width="441" height="1">
       <p>
-        <small>
           UI Tools: Figma**
-        </small>
       </p>
     </th>
     <th align="center">
       <img width="441" height="1">
       <p>
-        <small>
           More Skills
-        </small>
       </p>
     </th>
   </tr>
