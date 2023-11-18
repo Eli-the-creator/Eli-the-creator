@@ -21,7 +21,7 @@
 
 - 🔧 All projects are meticulously tested and ready for use.
 
-## <h3 align="left">Languages and Tools:</h3>
+<!-- ## <h3 align="left">Languages and Tools:</h3>
 
 <h4>Languages: JS, TS</h4>
 <p>
@@ -51,5 +51,42 @@
 <p>
     <img src="https://skillicons.dev/icons?i=css,styledcomponents,tailwind" />
 </p>
+<h4>UI Tools: Figma</h4>
+<p>
+    <img src="https://skillicons.dev/icons?i=figma" />
+</p> -->
+
+## <h3 align="left">Languages and Tools:</h3>
+
+<div style="display: flex; flex-wrap: wrap;">
+  <div style="flex: 1; margin-right: 20px;">
+    <h4>Languages: JS, TS</h4>
+    <p><img src="https://skillicons.dev/icons?i=js,ts" /></p>
+
+    <h4>Frameworks: React, React Native, NextJS</h4>
+    <p><img src="https://skillicons.dev/icons?i=react,electron,nextjs" /></p>
+
+    <h4>State manager: React, React Native, NextJS</h4>
+    <p><img src="https://skillicons.dev/icons?i=redux,redis" /></p>
+
+  </div>
+
+  <div style="flex: 1;">
+    <h4>Web3: Solidity, Ethereum, Solana</h4>
+    <p><img src="https://skillicons.dev/icons?i=solidity" /></p>
+
+    <h4>Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma</h4>
+    <p><img src="https://skillicons.dev/icons?i=aws,supabase,firebase,prisma" /></p>
+
+    <h4>Styling: CSS, StyledComponents, Tailwind</h4>
+    <p><img src="https://skillicons.dev/icons?i=css,styledcomponents,tailwind" /></p>
+
+    <h4>UI Tools: Figma</h4>
+    <p><img src="https://skillicons.dev/icons?i=figma" /></p>
+
+  </div>
+</div>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
