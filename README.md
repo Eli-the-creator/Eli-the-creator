@@ -30,7 +30,11 @@
 ## <h3 align="left">Languages and Tools:</h3>
 
 <h4>Languages: </h4>
-![My Skills](https://skillicons.dev/icons?i=js,ts)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts" />
+  </a>
+</p>
 
 <h4>FrameWorks: </h4>
 
