@@ -1,70 +1,77 @@
-<h1 align="center">Hello I'm Eli 👋</h1>
-<h3 align="center">🚀 Embarking on a journey back to programming after a rewarding hiatus.</h3>
+---
+layout: base
+---
+
+# Hello, I'm Eli! 👋
+
+## 🚀 Embarking on a journey back to programming after a rewarding hiatus.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eli-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="eli-the-creator" /> </p>
 
-<h2>Transition and Upgrade:</h2>
+## Transition and Upgrade:
 
 - 🛠️ Explored website development on WordPress, but a desire for a change led me to venture into new directions.
-
 - 🔄 After gaining valuable experience, I've decided that the excitement lies in the world of coding, prompting me to upgrade my skills.
 
-<h3>Previous Experience:</h3>
+## Previous Experience:
 
 💼 Worked with a company, contributing to WordPress website development post-graduation.
 
-<h3> Projects (Take a quick look below in on my project 😉) :</h3>
+## Projects:
 
 - 📱 Several applications available on the App Store and Google Play.
-
 - 🌐 [Example of my micro frontend](project link) — ready for seamless integration.
-
 - 🔧 All projects are meticulously tested and ready for use.
 
-## <h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
-<h4>Languages: JS, TS</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
-<h4>Frameworks: React, React Native, NextJS</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=react,electron,nextjs" />
-</p>
+### Languages:
 
-<h4>State manager: React, React Native, NextJS</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=redux,redis" />
-</p>
+<div>
+  <h4>JS, TS</h4>
+  <p><img src="https://skillicons.dev/icons?i=js,ts" /></p>
+</div>
 
-<h4>Web3: Solidity, Ethereum, Solana</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=solidity" />
-</p>
+### Frameworks:
 
-<h4>Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma </h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=aws,supabase,firebase,prisma" />
-</p>
+<div>
+  <h4>React, React Native, NextJS</h4>
+  <p><img src="https://skillicons.dev/icons?i=react,electron,nextjs" /></p>
+</div>
 
-<h4>Styling: CSS, StyledComponents, Tailwind</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=css,styledcomponents,tailwind" />
-</p>
-<h4>UI Tools: Figma</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+### State Managers:
 
-<table border="0">
- <tr>
-    <td><b style="font-size:30px">Title</b></td>
-    <td><b style="font-size:30px">Title 2</b></td>
- </tr>
- <tr>
-    <td>Lorem ipsum ...</td>
-    <td>Lorem ipsum ...</td>
- </tr>
-</table>
+<div>
+  <h4>Redux, Redis</h4>
+  <p><img src="https://skillicons.dev/icons?i=redux,redis" /></p>
+</div>
+
+### Web3:
+
+<div>
+  <h4>Solidity, Ethereum, Solana</h4>
+  <p><img src="https://skillicons.dev/icons?i=solidity" /></p>
+</div>
+
+### BaaS (Backend as a Service):
+
+<div>
+  <h4>AWS, SupaBase, FireBase, Prisma</h4>
+  <p><img src="https://skillicons.dev/icons?i=aws,supabase,firebase,prisma" /></p>
+</div>
+
+### Styling:
+
+<div>
+  <h4>CSS, StyledComponents, Tailwind</h4>
+  <p><img src="https://skillicons.dev/icons?i=css,styledcomponents,tailwind" /></p>
+</div>
+
+### UI Tools:
+
+<div>
+  <h4>Figma</h4>
+  <p><img src="https://skillicons.dev/icons?i=figma" /></p>
+</div>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
