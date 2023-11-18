@@ -36,12 +36,17 @@
   </a>
 </p>
 
-<h4>Frameworks: <span style="font-style: italic; font-weight: normal;">React, React Native, NextJS</span></h4>
+<div>
+<div>
+<h4>Frameworks:</h4>
+<p style="font-style: italic; font-weight: normal;">React, React Native, NextJS</p>
+</div>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,electron,nextjs" />
   </a>
 </p>
+</div>
 
 <h4></h4>
 <p>
