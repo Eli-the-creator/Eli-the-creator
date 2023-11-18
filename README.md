@@ -1,3 +1,7 @@
+---
+layout: base
+---
+
 # Hello, I'm Eli! 👋
 
 ## 🚀 Embarking on a journey back to programming after a rewarding hiatus.
@@ -19,39 +23,137 @@
 - 🌐 [Example of my micro frontend](project link) — ready for seamless integration.
 - 🔧 All projects are meticulously tested and ready for use.
 
-## <h3 align="left">Languages and Tools:</h3>
+## Languages and Tools:
 
-<h4>Languages: JS, TS</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=js,ts" />
-</p>
-<h4>Frameworks: React, React Native, NextJS</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=react,electron,nextjs" />
-</p>
-
-<h4>State manager: React, React Native, NextJS</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=redux,redis" />
-</p>
-
-<h4>Web3: Solidity, Ethereum, Solana</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=solidity" />
-</p>
-
-<h4>Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma </h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=aws,supabase,firebase,prisma" />
-</p>
-
-<h4>Styling: CSS, StyledComponents, Tailwind</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=css,styledcomponents,tailwind" />
-</p>
-<h4>UI Tools: Figma</h4>
-<p>
-    <img src="https://skillicons.dev/icons?i=figma" />
-</p>
+<table>
+  <tr>
+    <th align="center">
+      <img width="441" height="1">
+      <p>
+        <small>
+          **Languages: JS, TS**
+        </small>
+      </p>
+    </th>
+    <th align="center">
+      <img width="441" height="1">
+      <p>
+        <small>
+          **Frameworks: React, React Native, NextJS**
+        </small>
+      </p>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <!-- Languages -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=js,ts" />
+      </p>
+    </td>
+    <td>
+      <!-- Frameworks -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=react,electron,nextjs" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">
+      <img width="441" height="1">
+      <p>
+        <small>
+          **State manager: React, React Native, NextJS**
+        </small>
+      </p>
+    </th>
+    <th align="center">
+      <img width="441" height="1">
+      <p>
+        <small>
+          **Web3: Solidity, Ethereum, Solana**
+        </small>
+      </p>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <!-- State manager -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=redux,redis" />
+      </p>
+    </td>
+    <td>
+      <!-- Web3 -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=solidity" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">
+      <img width="441" height="1">
+      <p>
+        <small>
+          **Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma**
+        </small>
+      </p>
+    </th>
+    <th align="center">
+      <img width="441" height="1">
+      <p>
+        <small>
+          **Styling: CSS, StyledComponents, Tailwind**
+        </small>
+      </p>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <!-- BaaS -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=aws,supabase,firebase,prisma" />
+      </p>
+    </td>
+    <td>
+      <!-- Styling -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=css,styledcomponents,tailwind" />
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <th align="center">
+      <img width="441" height="1">
+      <p>
+        <small>
+          **UI Tools: Figma**
+        </small>
+      </p>
+    </th>
+    <th align="center">
+      <img width="441" height="1">
+      <p>
+        <small>
+          **More Skills**
+        </small>
+      </p>
+    </th>
+  </tr>
+  <tr>
+    <td>
+      <!-- UI Tools -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=figma" />
+      </p>
+    </td>
+    <td>
+      <!-- More Skills -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=example_skill1,example_skill2,example_skill3,example_skill4" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
