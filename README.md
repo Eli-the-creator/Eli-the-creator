@@ -4,12 +4,12 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eli-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="eli-the-creator" /> </p>
 
-<h2>Transition and Upgrade:</h2>
+### Transition and Upgrade:
 
 - 🛠️ Explored website development on WordPress, but a desire for a change led me to venture into new directions.
 - 🔄 After gaining valuable experience, I've decided that the excitement lies in the world of coding, prompting me to upgrade my skills.
 
-<h2>Previous Experience:</h2>
+### Previous Experience:
 
 💼 Worked with a company, contributing to WordPress website development post-graduation.
 
