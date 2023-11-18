@@ -48,6 +48,12 @@
     <img src="https://skillicons.dev/icons?i=solidity" />
   </a>
 </p>
-##
+
+<h4>Backend as a Service(BaaS): AWS, SupaBase, FireBase, Prisma </h4>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=aws,supabase,firebase,prisma" />
+  </a>
+</p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
