@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eli-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="eli-the-creator" /> </p>
 
-<h2><span style="text-decoration: none;">Transition and Upgrade:</span></h2>
+<h2 style="text-decoration: none;"><span style="text-decoration: none;">Transition and Upgrade:</span></h2>
 
 - 🛠️ Explored website development on WordPress, but a desire for a change led me to venture into new directions.
 - 🔄 After gaining valuable experience, I've decided that the excitement lies in the world of coding, prompting me to upgrade my skills.
