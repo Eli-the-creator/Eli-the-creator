@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eli-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="eli-the-creator" /> </p>
 
-- Transition and Upgrade:
+<h2>Transition and Upgrade:</h2>
 
 - Previous Experience:
 
