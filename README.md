@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eli</h1>
-<h3 align="center">React ecosystem fan</h3>
+<h1 align="center">Hello, I'm Eli 👋</h1>
+<h3 align="center">🚀 Embarking on a journey back to programming after a rewarding hiatus.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eli-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="eli-the-creator" /> </p>
 
