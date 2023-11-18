@@ -30,8 +30,7 @@
 ## <h3 align="left">Languages and Tools:</h3>
 
 <h4>Languages: </h4>
-[![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev)
----
+![My Skills](https://skillicons.dev/icons?i=js,ts)
 
 <h4>FrameWorks: </h4>
 
