@@ -23,12 +23,6 @@
 
 ---
 
-- 🌐 [Example of my micro frontend](project link) — ready for seamless integration.
-
-- 🔧 All projects are meticulously tested and ready for use..
-
--
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p> -->
