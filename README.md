@@ -121,10 +121,7 @@
   </tr>
   <tr>
     <td>
-      <!-- UI Tools -->
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=figma" />
-      </p>
+   
     </td>
   </tr>
 </table>
