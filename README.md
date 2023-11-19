@@ -120,10 +120,13 @@
     </th>
   </tr>
   <tr>
-    <td>
-   
+     <td>
+      <!-- UI Tools -->
+      <p align="center">
+        <img src="https://skillicons.dev/icons?i=figma" />
+      </p>
     </td>
   </tr>
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=eli-the-creator&show_icons=true&locale=en&layout=compact" alt="eli-the-creator" /></p>
+
