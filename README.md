@@ -115,7 +115,7 @@
     <th align="center" style="text-decoration: none;">
       <img width="441" height="1">
       <p>
-          More Skills
+          Loading More Skills...
       </p>
     </th>
   </tr>
