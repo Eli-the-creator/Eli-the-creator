@@ -19,6 +19,6 @@
 - 🌐 [Example of my micro frontend](project link) — ready for seamless integration.
 - 🔧 All projects are meticulously tested and ready for use.
 
-<h2>Languages and Tools:</h2>
+
 
 
