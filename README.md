@@ -51,6 +51,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Eli-the-creator/Eli-the-creator/output/snake.svg" alt="Snake animation" />
+
 
 ###
