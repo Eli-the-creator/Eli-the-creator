@@ -1,24 +1,56 @@
-# Hello, I'm Eli! 👋
+<h1 align="left">Hi my name is Eli</h1>
 
-### 🚀 Embarking on a journey back to programming after a rewarding hiatus.
+###
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eli-the-creator&label=Profile%20views&color=0e75b6&style=flat" alt="eli-the-creator" /> </p>
+<p align="left">Im learning front-end, and i like this. Here you can find my learning journey</p>
 
-### Transition and Upgrade:
+###
 
-- 🛠️ Explored website development on WordPress, but a desire for a change led me to venture into new directions.
-- 🔄 After gaining valuable experience, I've decided that the excitement lies in the world of coding, prompting me to upgrade my skills.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Eli-the-creator&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Eli-the-creator&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
 
-### Previous Experience:
+###
 
-💼 Worked with a company, contributing to WordPress website development post-graduation.
+<p align="left">Tech stach:</p>
 
-<h2>Projects:</h2>
+###
 
-- 📱 Several applications available on the App Store and Google Play.
-- 🌐 [Example of my micro frontend](project link) — ready for seamless integration.
-- 🔧 All projects are meticulously tested and ready for use.
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" alt="redux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+</div>
 
+###
 
+<p align="left">Just practice nothing serious</p>
 
+###
 
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/Eli-the-creator/Eli-the-creator/output/snake.svg" alt="Snake animation" />
+
+###
