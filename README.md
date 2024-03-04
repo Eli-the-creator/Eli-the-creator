@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Im learning front-end, and i like this. Here you can find my learning journey</p>
+<p align="left"></p>
 
 ###
 
