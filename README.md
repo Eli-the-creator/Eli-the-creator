@@ -3,6 +3,7 @@
 ###
 
 <p align="left">My name is Illiya and I'm a Full-Stack Developer, from Europe</p>
+<p align="left">Pss.. yeah i just add the some stats to my repo for all of you how this this is matter :) check my scripts repo</p>
 
 ###
 
