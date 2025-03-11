@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019<br>👨‍💻 Become a developer a 4 year ago</p>
+<p align="left">✨ Creating bugs since 2019<br></p>
 
 ###
 
